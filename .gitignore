@@ -8,7 +8,7 @@ yarn-error.log*
 # Environment Variables
 .env
 
-# Node.js dependencies
+# Node.js dependency
 node_modules/
 
 # Build output
